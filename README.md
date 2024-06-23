@@ -1,5 +1,5 @@
-# Python-Programming
-This repo contains Jupyter notebooks used in my Python classes. These notebooks are designed to help you learn Python programming from scratch, making it suitable for beginners and enthusiasts alike.
+# Python Programming Course Notebooks
+Welcome to the Python Programming Course Notebooks repository! This repo contains Jupyter notebooks used in my Python classes. These notebooks are designed to help you learn Python programming from scratch, making it suitable for beginners and enthusiasts alike.
 
 # About This Repository
 This repository is a comprehensive collection of Jupyter notebooks covering various topics in Python programming. It is structured to facilitate step-by-step learning, from basic Python concepts to more advanced programming techniques. Whether you are one of my students or a self-learner, this repository aims to provide you with valuable learning resources.
